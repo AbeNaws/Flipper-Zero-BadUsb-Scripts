@@ -5,6 +5,7 @@ REM # Author       : AbeNaws        |
 REM # Version      : 1.0            |
 REM # Category     : Prank          |
 REM # Target       : IOS            |
+REM # Credit       : Aleff          |
 REM #                               |
 REM #################################
 

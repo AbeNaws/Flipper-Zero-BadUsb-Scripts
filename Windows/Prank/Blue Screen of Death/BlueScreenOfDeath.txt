@@ -1,12 +1,13 @@
-REM ########################################
-REM #                                      |
-REM # Title        : Blue Screen of Death  |
-REM # Author       : AbeNaws               |
-REM # Version      : 1.0                   |
-REM # Category     : Prank                 |
-REM # Target       : Windows               |
-REM #                                      |
-REM ########################################
+REM #######################################
+REM #                                     |
+REM # Title       : Blue Screen of Death  |
+REM # Author      : AbeNaws               |
+REM # Version     : 1.0                   |
+REM # Category    : Prank                 |
+REM # Target      : Windows               |
+REM # Credit      : Windows Repair        |
+REM #                                     |
+REM #######################################
 
 DELAY 1000
 GUI r
