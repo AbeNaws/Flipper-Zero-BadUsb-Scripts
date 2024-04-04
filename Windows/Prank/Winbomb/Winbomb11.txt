@@ -1,3 +1,13 @@
+REM ###########################################
+REM #                                         |
+REM # Title        : Window Settings Bomb     |
+REM # Author       : AbeNaws                  |
+REM # Version      : 1.0                      |
+REM # Category     : Prank                    |
+REM # Target       : Windows 11               |
+REM #                                         |
+REM ###########################################
+
 REM Mouse Disable
 DELAY 1000
 GUI
