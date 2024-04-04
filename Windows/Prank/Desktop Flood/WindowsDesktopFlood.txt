@@ -1,6 +1,6 @@
 REM ###########################################
 REM #                                         |
-REM # Title        : Windows Move Taskbar     |
+REM # Title        : Windows Desktop Flood    |
 REM # Author       : AbeNaws                  |
 REM # Version      : 1.0                      |
 REM # Category     : Prank                    |
@@ -9,14 +9,8 @@ REM #                                         |
 REM ###########################################
 
 DELAY 1000
-GUI
+GUI r
 DELAY 500
-STRING taskbar location
-DELAY 100
+REM                               Repeat count $n=#; 
+STRING powershell -w h -NoP -NonI -Exec Bypass $n=200;$d=0;1..$n|%{New-Item -Path "$env:USERPROFILE\Desktop\$(('Don''t_','Leave_','Your_','Computer_','Unlocked_')[$_%5])$($_+1).txt" -ItemType File}
 ENTER
-DELAY 2000
-ENTER
-UP
-ENTER
-DELAY 100
-ALT F4

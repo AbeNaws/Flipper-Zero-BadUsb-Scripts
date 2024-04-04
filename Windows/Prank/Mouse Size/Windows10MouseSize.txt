@@ -1,6 +1,6 @@
 REM ###########################################
 REM #                                         |
-REM # Title        : Windows Color Filter     |
+REM # Title        : Windows Mouse Size       |
 REM # Author       : AbeNaws                  |
 REM # Version      : 1.0                      |
 REM # Category     : Prank                    |
